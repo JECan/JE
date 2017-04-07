@@ -1,2 +1,2 @@
-# JE
-Personal website: http://JECan.github.io/
+# Online Portfolio for Jonathan Candelaria
+http://JECan.github.io/
